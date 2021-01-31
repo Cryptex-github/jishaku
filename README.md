@@ -18,6 +18,7 @@ jishaku
 </h1>
 <p align="center">
 <sup>
+**This is the enchanted verison of jishaku created by Cryptex features include putting most stuff in embed and improved paginator you no longer have to press twice to go to next page.
 a debugging and utility extension for discord.py bots
 </sup>
 <br>
